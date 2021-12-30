@@ -105,4 +105,4 @@ and supervision of master’s students, PhD students and postdocs as well as for
 leadership and management (Project Management and Leadership for researchers at RUC and SDU). He has
 served as PhD opponent in Denmark and Australia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c" "newtab" >}}publication list{{< /staticref >}}.
