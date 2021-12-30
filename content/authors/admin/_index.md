@@ -71,6 +71,7 @@ Henrik Bjarke Vægter is an internationally leading researcher in the field of p
 nociceptive mechanisms. His primary research expertise lies within pain, physical activity, and interdisciplinary
 rehabilitation with a particular focus on quantitative assessment of pro- and anti-nociceptive mechanisms in
 individuals with chronic pain to understand how these manifestations influence outcomes after rehabilitation.
+
 Henrik Bjarke Vægter Head of the interdisciplinary Pain Research Group at University Hospital Odense and he has
 extensive experience in working in interdisciplinary teams and networks nationally and internationally within this
 area. He is leading several large scale externally funded projects and randomized controlled trials in clinical
