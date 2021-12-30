@@ -29,9 +29,9 @@ address:
   country: Denmark
   country_code: DK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '55.38683246853474'
+  longitude: '10.368576803822666'
+directions: Enter Building 7 and take the stairs or elevator to 1st Floor
 office_hours:
   - 'Weekdays 08:00 to 16:00'
   - 'Weenends Closed'
