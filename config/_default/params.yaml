@@ -34,7 +34,7 @@ coordinates:
 directions: Enter Building 7 and take the stairs or elevator to 1st Floor
 office_hours:
   - 'Weekdays 08:00 to 16:00'
-  - 'Weenends Closed'
+  - 'Weekends Closed'
 contact_links:
   - icon: twitter
     icon_pack: fab
