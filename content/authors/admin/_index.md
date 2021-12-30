@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+icon_pack: ai
+link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,7 +72,7 @@ nociceptive mechanisms. His primary research expertise lies within pain, physica
 rehabilitation with a particular focus on quantitative assessment of pro- and anti-nociceptive mechanisms in
 individuals with chronic pain to understand how these manifestations influence outcomes after rehabilitation.
 
-Henrik Bjarke Vægter Head of the interdisciplinary Pain Research Group at University Hospital Odense and he has
+Henrik Bjarke Vægter is Head of the interdisciplinary Pain Research Group at University Hospital Odense and he has
 extensive experience in working in interdisciplinary teams and networks nationally and internationally within this
 area. He is leading several large scale externally funded projects and randomized controlled trials in clinical
 practice.
