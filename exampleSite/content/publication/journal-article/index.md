@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "noget andet her"
 authors:
 - admin
 - Robert Ford
