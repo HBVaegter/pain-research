@@ -78,10 +78,12 @@ Henrik Bjarke Vægter Head of the interdisciplinary Pain Research Group at Unive
 extensive experience in working in interdisciplinary teams and networks nationally and internationally within this
 area. He is leading several large scale externally funded projects and randomized controlled trials in clinical
 practice.
+
 Henrik has published extensively within the field of pain and exercise, and is author of 70 publications in
 international peer-reviewed journals (2/3 as first or senior author) with several papers published in the top five
 journals in the pain and exercise field (e.g. PAIN, Journal of Pain, Medicine and Science in Sports and Exercise).
 His H-index is 22 (Google Scholar).
+
 Henrik has led the development and implementation of 2 electronic clinical registries (PainData and FunkData)
 including patient-reported outcome (PRO) measures across more than 20 private and public interdisciplinary
 rehabilitation centers in Denmark, and is now leading the steering group for development of quality indicators in
@@ -89,14 +91,17 @@ interdisciplinary pain management in Denmark comprising multiple professional di
 physicians, nurses, psychologist, physiotherapists, secretaries and patient-representatives). Furthermore, he has
 a strong collaboration with Danish Regions where he is part of the implementation group for the project Value-
 Based Health Care in high-impact chronic pain.
+
 Henrik is associate editor for Scand J Pain since 2020 and perform numerous ad-hoc reviews for scientific journals,
 including frequent reviews for top journals within the pain field. He has served as grant reviewer for organizations
 such as Medical Research Council, UK, Research Council Norway, Auckland Medical Research Foundation in New
 Zealand and Israel Science Foundation.
+
 Henrik Bjarke Vægter has received research support as the principal investigator or co-applicant from numerous
 sources including The philanthropic foundation TrygFonden, HelseFonden, Offerfonden, Sundheds- og
 Ældreministeriet, The Danish Rheumatism Association, Udviklings- og Forskningspuljen, and The Fund for
 Physiotherapy in Private Practice.
+
 Henrik has a comprehensive teaching portfolio including formal education (Lecturer Training Programme, SDU)
 and supervision of master’s students, PhD students and postdocs as well as formal educational training in research
 leadership and management (Project Management and Leadership for researchers at RUC and SDU). He has
