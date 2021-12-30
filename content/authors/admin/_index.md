@@ -57,8 +57,8 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
-icon_pack: ai
-link: uploads/resume.pdf
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -105,4 +105,4 @@ and supervision of master’s students, PhD students and postdocs as well as for
 leadership and management (Project Management and Leadership for researchers at RUC and SDU). He has
 served as PhD opponent in Denmark and Australia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
