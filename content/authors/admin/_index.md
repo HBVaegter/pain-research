@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:hbv@rsyd.dk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HBVaegter
@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: https://home.mycloud.com/action/share/d1b131fa-800e-431a-ac66-427abcedc75c
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
