@@ -67,7 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-HOSTHenrik Bjarke Vægter is an internationally leading researcher in the field of pain, exercise and pro- and anti-
+HOST
+Henrik Bjarke Vægter is an internationally leading researcher in the field of pain, exercise and pro- and anti-
 nociceptive mechanisms. His primary research expertise lies within pain, physical activity, and interdisciplinary
 rehabilitation with a particular focus on quantitative assessment of pro- and anti-nociceptive mechanisms in
 individuals with chronic pain to understand how these manifestations influence outcomes after rehabilitation.
